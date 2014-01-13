@@ -1,4 +1,4 @@
 pictureConvert
 ==============
 
-Convert org folder to another folder with 
+Convert org folder to another folder with new dimension
